@@ -1,0 +1,4 @@
+function novoElemeto(tagName, className)
+{
+
+}
